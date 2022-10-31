@@ -25,4 +25,4 @@ I've notice that seafood prices in general have been increasing in the sound whi
 ## Analysis
 
 First let's see the total amount of fish caught per year throughout the timeline. 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/TotalFishHarvested.pdf "TotalFishHarvested")
