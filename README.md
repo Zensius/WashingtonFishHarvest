@@ -25,4 +25,16 @@ I've notice that seafood prices in general have been increasing in the sound whi
 ## Analysis
 
 First let's see the total amount of fish caught per year throughout the timeline. 
-![alt text](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/TotalFishHarvested.pdf "TotalFishHarvested")
+![alt text](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/TotalFishHarvested-1.png "TotalFishHarvested")
+
+It seems like from the the start of this datset, fish harvest has been incremental up until the early 90s. For the next decade, harvest have been rapidly declining suggesting a overharvesting, it wasn't until the mid 2000s do we see recovery of fish harvest. One interesting note I may add is that the recovery state could have been due to advancement and tighter restrictions in both buisness and recreational harvesting in hope to preserve specie populations. 
+
+Next let's explore the fish caught grouped by fisher type. There are three types of fishers categorized in the dataset(Sport, Treaty, non-Treaty). I understood the Sport catagory from professional fishing scene, but I did not know about the differences on treaty and untreaty. So I looked it up and interestingly, in 1974 Washington state signed a treaty known as the Boldt decision that entitled native Indians to 50% of the fish in the state for their own use. [Source](https://www.historylink.org/file/21084) Therefore, any non-treaty harvest would be commercial and personal use. 
+
+Since the treaty started in 1974, coincidentally, the dataset begun from the same year, I expect to see a increase in Treaty harvest amount.
+
+First 3 Years            |  Last 3 Years
+:-------------------------:|:-------------------------:
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType1974-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType2009-1.png)
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType1975-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType2010-1.png)
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType1976-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType2011-1.png)
