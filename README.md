@@ -38,3 +38,21 @@ First 3 Years            |  Last 3 Years
 ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType1974-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType2009-1.png)
 ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType1975-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType2010-1.png)
 ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType1976-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/FisherType2011-1.png)
+
+
+As predicted, treaty harvest exponentially increased over the year looking at the first three year and last three years of the given dataset. Even surpassing non-treaty harvest while Sport stays relatively stable. This result could tell us that majority of fish on the market were harvested from native Indian owned operations today. 
+
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/Yearly%20by%20Type-1.png)
+
+
+Lastly, I want to look at the harvest record by fish species.
+       Species       |   Species
+:-------------------------:|:-------------------------:
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/ChinookHavest-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/ChumHavest-1.png)
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/CohoHavest-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/JacksHavest-1.png)
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/PinkHavest-1.png)  |  ![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/SockeyeHavest-1.png)
+![](https://github.com/Zensius/WashingtonFishHarvest/blob/main/Figures/SteelheadHavest-1.png)  |  ![]()
+
+Overall, we do see a downward trend for all the species of fish harvested over the years. One note I need to add is that the plot includes all three fisher types harvested that year, the sports catagory almost exclusively harvest Jacks and Steelhead while not very many on other species making the trend line less reliable, however, the trend line is still prominant enough to show a deteriorating harvest amount and population of all species. So I like to urge the general public who enjoys seafood and occasioanl fishing trips to follow the WDFD guidelines and not overharvesting. 
+
+### Thank you for reading! 
