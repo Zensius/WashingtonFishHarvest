@@ -53,6 +53,11 @@ Lastly, I want to look at the harvest record by fish species.
 <img src="./Figures/ChinookHavest-1.png" alt="PinkHavest-1.png">  | <img src="./Figures/SockeyeHavest-1.png" alt="ChinookHavest-1.png">
 <img src="./Figures/ChinookHavest-1.png" alt="SteelheadHavest-1.png">  | 
 
+| Species      | Species |
+| ----------- | ----------- |
+| <img src="./Figures/ChinookHavest-1.png" alt="ChinookHavest-1.png">      | <img src="./Figures/ChumHavest-1.png" alt="ChumHavest-1.png">       |
+| Paragraph   | Text        |
+
 Overall, we do see a downward trend for all the species of fish harvested over the years. One note I need to add is that the plot includes all three fisher types harvested that year, the sports catagory almost exclusively harvest Jacks and Steelhead while not very many on other species making the trend line less reliable, however, the trend line is still prominant enough to show a deteriorating harvest amount and population of all species. So I like to urge the general public who enjoys seafood and occasioanl fishing trips to follow the WDFD guidelines and not overharvesting. 
 
 ### Thank you for reading! 
